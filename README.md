@@ -10,19 +10,25 @@ Open Data Day (Scraping con programación y sin ella, extracción de datos de PD
   
 Definición:
 
-Html y Dom:
+Html5, W3c y Dom:
 
-Perl, python, java, php...:  
+Perl, python, java, php, R...:  
   
 # Scraping para no programadores.  
   
 Google spreadsheet:
+1. ImportHtML()  
+2. importxml()  
 
-Google refine:  
+Google refine:   
+
+https://code.google.com/p/google-refine/  
 
 # Extracción de datos en PDFs. 
   
   Tabula:  
+  1. Java.
+  2. Tabula.  
     
 # Fuentes de datos comunes.  
   
