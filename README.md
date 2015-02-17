@@ -35,17 +35,18 @@ Artículo 133 del Real Decreto Legislativo 1/1996, de 12 de abril, por el que se
 2. Redmine  
 3. Github  
 
-Firebug  
-HTML Regex Data Extractor  
-
 ###Copia web:   
 
-HTTrack 
+HTTrack  
+![httrack](/images/Httrack.png)
 Descarga:http://www.httrack.com/page/2/en/index.html  
 Manual:http://www.httrack.com/html/fcguide.html  
 httrack "http://lujoyglamour.net/" -O "/tmp/www.all.net" "+*.all.net/*" -v  
 
-Html5, W3c y Dom:
+###Html5, W3c y Dom:  
+
+Firebug  
+HTML Regex Data Extractor  
 
 ##Perl, python, java, php, R...:  
 
