@@ -14,8 +14,6 @@ Según Wikipedia: “Web Scraping es una técnica utilizada mediante programas d
 
 ##Conocimientos previos y otros:
 
-
-
 ###Buenas costumbres en scraping:  
 
 1. Definir previamente lo que se busca. Planificar.  
@@ -53,30 +51,38 @@ HTML Regex Data Extractor
 ###Scrapy:
 
   
-# Scraping para no programadores.  
+## Scraping para no programadores.  
   
-Google spreadsheet:  
+###Google spreadsheet:  
+
 1. ImportHTML()  
 2. importxml()  
 
-Google refine:   
+###Google refine: 
 
-https://code.google.com/p/google-refine/  
+Open refine  
 
-# Extracción de datos en PDFs. 
+![OpenRefine](/images/OpenRefine.png)
+
+http://openrefine.org/ 
+
+## Extracción de datos en PDFs. 
   
-  Tabula:  
+###Tabula:  
   1. Java.
+  ![tabula_1](/images/No_tengo_java.png)  
   2. Tabula. 
   http://tabula.technology/ 
 ![tabula_1](/images/tabula_1.png)
 ![tabula_1](/images/tabula_2.png)
 ![tabula_1](/images/tabula_3.png)
     
-# Fuentes de datos comunes.  
+## Fuentes de datos comunes.  
   
-1. Data Warehouse.
-2. Problema codificación.  
+###Data Warehouse.  
+
+
+###Problema codificación.  
   
 
 
