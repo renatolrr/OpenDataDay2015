@@ -6,7 +6,7 @@ Open Data Day (Scraping con programación y sin ella, extracción de datos de PD
 3. Extracción de datos en PDFs.
 4. Fuentes de datos comunes.
   
-## Scraping (definición y conocimientos previos).   
+##1. Scraping (definición y conocimientos previos).   
   
 ##Definición:  
 
@@ -59,7 +59,7 @@ HTML Regex Data Extractor
 2. Scraping Web Pages with Scrapy - YouTube
 
   
-## Scraping para no programadores.  
+##2. Scraping para no programadores.  
   
 ###Google spreadsheet:  
 
@@ -74,7 +74,7 @@ Open refine
 
 http://openrefine.org/ 
 
-## Extracción de datos en PDFs. 
+##3. Extracción de datos en PDFs. 
   
 ###Tabula:  
   1. Java.
@@ -87,7 +87,7 @@ http://openrefine.org/
 ![tabula_1](/images/tabula_2.png)
 ![tabula_1](/images/tabula_3.png)
     
-## Fuentes de datos comunes.  
+##4. Fuentes de datos comunes.  
   
 ###Data Warehouse. 
 
