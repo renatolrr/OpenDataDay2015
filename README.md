@@ -33,7 +33,8 @@ https://code.google.com/p/google-refine/
     
 # Fuentes de datos comunes.  
   
-Data Warehouse  
+1. Data Warehouse.
+2. Problema codificación.  
   
 
 
