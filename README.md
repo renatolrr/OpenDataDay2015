@@ -53,6 +53,9 @@ HTML Regex Data Extractor
 ###Scrapy:  
 
 1. Scraping express por Serafín Velez Barrera
+
+![scrapy](/images/scrapy.png)
+
 2. Scraping Web Pages with Scrapy - YouTube
 
   
@@ -86,10 +89,23 @@ http://openrefine.org/
     
 ## Fuentes de datos comunes.  
   
-###Data Warehouse.  
+###Data Warehouse. 
+
+1. Data warehaouse
 
 
-###Problema codificación.  
+2. Pentaho  
+
+http://es.wikipedia.org/wiki/Pentaho  
+
+![pentaho](/images/pentaho_1.png)
+
+###Problema codificación.   
+http://es.wikipedia.org/wiki/Codificaci%C3%B3n_de_caracteres  
+![tabula_1](/Codificacion.png)  
+
+
+
   
 
 
