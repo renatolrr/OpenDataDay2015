@@ -48,7 +48,12 @@ HTML Regex Data Extractor
 
 ##Perl, python, java, php, R...:  
 
-###Scrapy:
+
+
+###Scrapy:  
+
+1. Scraping express por Serafín Velez Barrera
+2. Scraping Web Pages with Scrapy - YouTube
 
   
 ## Scraping para no programadores.  
