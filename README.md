@@ -29,7 +29,8 @@ https://code.google.com/p/google-refine/
   Tabula:  
   1. Java.
   2. Tabula. 
-  http://tabula.technology/  
+  http://tabula.technology/ 
+![tabula_1](/images/tabula_1.png)
     
 # Fuentes de datos comunes.  
   
