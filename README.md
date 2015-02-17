@@ -102,7 +102,7 @@ http://es.wikipedia.org/wiki/Pentaho
 
 ###Problema codificación.   
 http://es.wikipedia.org/wiki/Codificaci%C3%B3n_de_caracteres  
-![tabula_1](/Codificacion.png)  
+![Codificacion](/Codificacion.png)  
 
 
 
