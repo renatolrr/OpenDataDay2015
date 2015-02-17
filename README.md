@@ -16,8 +16,8 @@ Perl, python, java, php, R...:
   
 # Scraping para no programadores.  
   
-Google spreadsheet:
-1. ImportHtML()  
+Google spreadsheet:  
+1. ImportHTML()  
 2. importxml()  
 
 Google refine:   
@@ -28,7 +28,8 @@ https://code.google.com/p/google-refine/
   
   Tabula:  
   1. Java.
-  2. Tabula.  
+  2. Tabula. 
+  http://tabula.technology/  
     
 # Fuentes de datos comunes.  
   
