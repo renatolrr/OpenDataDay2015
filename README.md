@@ -25,7 +25,7 @@ Según Wikipedia: “Web Scraping es una técnica utilizada mediante programas d
 
 ###Aspectos legales:  
 
-“no estarán autorizadas la extracción y/o reutilización repetidas o sistemáticas de partes no sustanciales del contenido de una base de datos que supongan actos contrarios a una explotación normal de dicha base o que causen un perjuicio injustificado a los intereses legítimos del fabricante”.  
+“No estarán autorizadas la extracción y/o reutilización repetidas o sistemáticas de partes no sustanciales del contenido de una base de datos que supongan actos contrarios a una explotación normal de dicha base o que causen un perjuicio injustificado a los intereses legítimos del fabricante”.  
 Artículo 133 del Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el Texto Refundido de la Ley de Propiedad Intelectual.  
 
 ###Planificar:
@@ -62,6 +62,8 @@ Clearly
 
 2. Scraping Web Pages with Scrapy - YouTube
 
+###R
+![Rbloggers](/images/Rbloggers.png)
   
 ##2. Scraping para no programadores.  
   
@@ -77,9 +79,9 @@ Clearly
 
 
 
-###Google refine: 
+###Google Refine: 
 
-Open refine  
+Open Refine  
 
 ![OpenRefine](/images/OpenRefine.png)
 
@@ -98,7 +100,7 @@ http://openrefine.org/
 ![tabula_1](/images/tabula_2.png)
 ![tabula_1](/images/tabula_3.png)
     
-##4. Fuentes de datos comunes.  
+##4. Fuentes de datos comunes  
   
 ###Data Warehouse. 
 
@@ -140,11 +142,11 @@ http://es.wikipedia.org/wiki/Pentaho
 ![pentaho](/images/pentaho_1.png)
 ![pentaho](/images/Pentaho_2.png)
 
-###Problema codificación.   
+###Problema codificación   
 http://es.wikipedia.org/wiki/Codificaci%C3%B3n_de_caracteres  
 ![Codificacion](/images/Codificacion.png)  
 
-##5.Conclusión.  
+##5.Conclusión  
 
 ![try](/images/try.jpg)  
 
