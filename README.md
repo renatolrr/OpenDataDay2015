@@ -69,11 +69,11 @@ Clearly
 
 1. ImportHTML()  
 
-
+  
 
 2. importxml()  
 
-
+  
 
 
 
@@ -152,10 +152,10 @@ Image credit: Umbrella movement, Alex, K.M. Yau, Flickr, CC BY
 
 Buscar un hacker:  
 
-![JJ](/images/jj.jpg) 
+![JJ](/images/jj.JPG) 
 ![pablo](/images/pablo.jpg) 
 ![manu](/images/manu.jpg) 
-![ja](/images/ja.jpg) 
+![ja](/images/ja.JPG) 
 
   
 
