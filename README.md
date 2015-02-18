@@ -127,7 +127,7 @@ c. Turista
 http://es.wikipedia.org/wiki/Pentaho  
 
 ![pentaho](/images/pentaho_1.png)
-![pentaho](/images/pentaho_2.png)
+![pentaho](/images/Pentaho_2.png)
 
 ###Problema codificación.   
 http://es.wikipedia.org/wiki/Codificaci%C3%B3n_de_caracteres  
