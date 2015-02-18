@@ -42,7 +42,7 @@ Descarga:http://www.httrack.com/page/2/en/index.html
 Manual:http://www.httrack.com/html/fcguide.html  
 httrack "http://lujoyglamour.net/" -O "/tmp/www.all.net" "+*.all.net/*" -v  
 
-###Html5, W3c y Dom:  
+###Html5, W3c:  
 
 Firebug  
 HTML Regex Data Extractor  
