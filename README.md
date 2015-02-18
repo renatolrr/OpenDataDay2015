@@ -4,7 +4,8 @@ Open Data Day (Scraping con programación y sin ella, extracción de datos de PD
 1. Scraping (definición y conocimientos previos).
 2. Scraping para no programadores.
 3. Extracción de datos en PDFs.
-4. Fuentes de datos comunes.
+4. Fuentes de datos comunes.  
+5. Conclusión.
   
 ##1. Scraping (definición y conocimientos previos).   
   
@@ -132,6 +133,14 @@ http://es.wikipedia.org/wiki/Pentaho
 ###Problema codificación.   
 http://es.wikipedia.org/wiki/Codificaci%C3%B3n_de_caracteres  
 ![Codificacion](/images/Codificacion.png)  
+
+##5.Conclusión.  
+
+![try](/images/try.jpg)  
+
+Image credit: Umbrella movement, Alex, K.M. Yau, Flickr, CC BY  
+
+Buscar un hacker:  
 
 
 
