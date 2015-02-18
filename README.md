@@ -98,6 +98,7 @@ no-volátiles e historiados, organizados para dar soporte a los
 procesos de ayuda a la decisión.  
 
 ![DataWarehouse_1](/images/DataWarehouse_1.png)
+![DataWarehouse_2](/images/DataWarehouse_2.png)
 
 Tipos de usuarios:   
 
@@ -126,6 +127,7 @@ c. Turista
 http://es.wikipedia.org/wiki/Pentaho  
 
 ![pentaho](/images/pentaho_1.png)
+![pentaho](/images/pentaho_2.png)
 
 ###Problema codificación.   
 http://es.wikipedia.org/wiki/Codificaci%C3%B3n_de_caracteres  
