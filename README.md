@@ -45,11 +45,14 @@ httrack "http://lujoyglamour.net/" -O "/tmp/www.all.net" "+*.all.net/*" -v
 ###Html5, W3c:  
 
 Firebug  
-HTML Regex Data Extractor  
+HTML Regex Data Extractor 
+Clearly  
 
 ##Perl, python, java, php, R...:  
 
-
+![programas_1](/images/programas_1.png)  
+![programas_2](/images/programas_2.png)  
+![programas_3](/images/programas_3.png)  
 
 ###Scrapy:  
 
@@ -65,7 +68,14 @@ HTML Regex Data Extractor
 ###Google spreadsheet:  
 
 1. ImportHTML()  
+
+
+
 2. importxml()  
+
+
+
+
 
 ###Google refine: 
 
@@ -142,7 +152,10 @@ Image credit: Umbrella movement, Alex, K.M. Yau, Flickr, CC BY
 
 Buscar un hacker:  
 
-
+![JJ](/images/jj.jpg) 
+![pablo](/images/pablo.jpg) 
+![manu](/images/manu.jpg) 
+![ja](/images/ja.jpg) 
 
   
 
