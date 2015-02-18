@@ -99,16 +99,19 @@ procesos de ayuda a la decisión.
 
 ![DataWarehouse_1](/images/DataWarehouse_1.png)
 
-Tipos de usuarios: 
-a. Granjero
+Tipos de usuarios:   
+
+a. Granjero  
 - Accede a información de forma predecible y repetitiva.  
 - Sólo accede a su parcela de información: extrae datos para mejorar el funcionamiento de la empresa.
-- Utiliza herramientas OLAP.  
+- Utiliza herramientas OLAP. 
+
 b. Explorador  
 - Explora gran cantidad de datos.  
 - Accede a información de forma impredecible e irregular.  
 - Perfil informático o estadístico.  
-- Objetivo: Obtener información que proporcione ventaja competitiva.
+- Objetivo: Obtener información que proporcione ventaja competitiva.  
+
 c. Turista  
 - Grupo de dos o más personas.  
 - Un perfil con conocimientos del negocio y visión global empresa.  
