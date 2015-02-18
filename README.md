@@ -116,7 +116,7 @@ Tipos de usuarios:
 a. Granjero  
 - Accede a información de forma predecible y repetitiva.  
 - Sólo accede a su parcela de información: extrae datos para mejorar el funcionamiento de la empresa.
-- Utiliza herramientas OLAP. 
+- Utiliza herramientas OLAP (On-Line Analytical Processing).  
 
 b. Explorador  
 - Explora gran cantidad de datos.  
